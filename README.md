@@ -1,5 +1,8 @@
-# SE_project
+# Bike Sharing Web App 🚲
 
 Group project for Software Engineering laboratory. 
 
-Members: Kiss Borbála, Păun Andreea-Oana, Vele Radu-Augustin
+Members: 
+* [Kiss Borbála](https://github.com/KissBorbala/) 
+* [Păun Andreea-Oana](https://github.com/AndreeaPaun12) 
+* [Vele Radu-Augustin](https://github.com/Radu-Vele)

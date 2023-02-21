@@ -18,16 +18,19 @@ Contributors:
 ## GUI Screenshots
 See below some screenshots from the app.
 ### Home page (users not logged in)
-- ![[screenshots/home_login.png]]
+![Home page - not logged in](screenshots/home_login.png)
 ### Home page (logged in user)
-- ![[screenshots/home_map.png]]
+![Home page - logged in](screenshots/home_map.png)
 ### Account info page
-- ![[screenshots/account_info.png]]
+![Account Info](screenshots/account_info.png)
 ### Current Ride
-- ![[screenshots/current_ride.png]]
+![Current ride](screenshots/current_ride.png)
 
 ## How to run the project
 ### Backend using IntelliJ
 - `TBA`
 ### Frontend using VSCode
 - open a terminal in the project directory and run the command `npm start`.
+
+## Credits
+- the organization of the project packages and modules was inspired by [Purshink Full Stack App Repository](https://github.com/purshink/ReactJS-Spring-Boot-Full-Stack-App.git)

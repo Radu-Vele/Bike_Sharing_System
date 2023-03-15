@@ -1,5 +1,7 @@
 # Bike Sharing Web App 🚲
 
+> ❕ The project is under development and some work might not have been integrated onto the main branch. To see latest updates navigate to the backend/frontend repos on the other branch but main.
+
 > A web application for managing a bike-sharing system. The system involves only the self-reported user activity (no background check for any actual physical bikes).
 
 Contributors: 

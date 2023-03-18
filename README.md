@@ -12,7 +12,7 @@ Contributors:
 ## Tech stack 
 - ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Project status
 - the project is currently `under development` 🚈.
@@ -35,9 +35,8 @@ The project is version controlled using a wrapper repository (the one that conta
     - `git submodule update`
 - make sure you are on the `main` branch in each repo.
 
-### MySQL DataBase
-- one needs to setup a local database schema using MySQL and edit the username and password in `src/main/resources/application.properties`. This can be done directly from IntelliJ [see documentation](jetbrains.com/help/idea/mysql.html).
-- currently, the app does not offer a server side so the database can only be populated using Postman and the requests defined in the controller package in the backend.
+### MongoDB Database
+- `TBA`
 
 ### Backend using IntelliJ
 The steps are described below:
